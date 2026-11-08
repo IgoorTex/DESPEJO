@@ -1,0 +1,8 @@
+SITE COMPLETO DESPEJO
+
+Extraia o ZIP e abra despejo/index.html.
+O HTML inclui os estilos, scripts, foto, capas e os 3 videos dentro do proprio arquivo. Nenhuma midia depende de outra pasta.
+
+Para GitHub: envie a pasta despejo com index.html para a raiz do repositorio. O arquivo HTML tem cerca de 54 MB; use Git pelo computador para enviar caso a interface web recuse o tamanho.
+
+Checkout Kiwify conectado. As fontes Google usam internet; sem internet o site usa fontes alternativas.
